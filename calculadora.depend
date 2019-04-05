@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1553612429 source:c:\users\alumno\desktop\calculadora\calculos.c
+	"calculos.h"
+
+1553612429 c:\users\alumno\desktop\calculadora\calculos.h
+
+1554427428 source:c:\users\user\documents\facu\programacion\calculadora-c-master\calculadora-c-master\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculos.h"
+
+1554425963 c:\users\user\documents\facu\programacion\calculadora-c-master\calculadora-c-master\calculadora\calculos.h
+
+1554428706 source:c:\users\user\documents\facu\programacion\calculadora-c-master\calculadora-c-master\calculadora\calculos.c
+	"calculos.h"
+
