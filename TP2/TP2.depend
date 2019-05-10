@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1557453179 source:c:\users\user\documents\facu\programacion\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1557453256 c:\users\user\documents\facu\programacion\tp2\arrayemployees.h
+
+1557453088 source:c:\users\user\documents\facu\programacion\tp2\arrayemployees.c
+	"ArrayEmployees.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557420414 source:c:\users\user\documents\facu\programacion\tp2\funcionesxtra.c
+	<stdio.h>
+
+1557419687 c:\users\user\documents\facu\programacion\tp2\funcionesxtra.h
+
